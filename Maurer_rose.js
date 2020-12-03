@@ -7,7 +7,7 @@ document.body.appendChild(canv);
 const ctx = canv.getContext('2d');
 
 // Alright, rose time.
-let n = 5, d = 97; // These can be any combination, but this one is nice.
+let n = 6, d = 71; // These can be any combination, but this one is nice.
 
 ctx.translate(canv.width / 2, canv.height / 2);
 
